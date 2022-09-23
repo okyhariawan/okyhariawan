@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oky Hariawan</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">I am Data Science Student from Data Science Bootcamp in Rakamin Academy. Have an interest in data science and data analysis. Have a great willingness to learn and am highly dedicated and teamwork-oriented. Passionate about collecting, analyzing, and interpreting large datasets, and developing new casting models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okyhariawan&label=Profile%20views&color=0e75b6&style=flat" alt="okyhariawan" /> </p>
 
-- 🌱 I’m currently learning **Data science & Machine Learning**
-
-- 📫 How to reach me **Please hit the DM button on Instagram.com/okyhariawan**
+- ☀️ I'm currently learning about data modeling to create a faster, more interactive & robust dashboard
+- 🥅 2022 Goal is to learn more about data analysis specializing in data visualization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
